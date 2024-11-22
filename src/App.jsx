@@ -188,7 +188,7 @@ const App = () => {
               </article>
             </section>
             <section>
-              <div className='botonera'>
+              <div className='botonera2'>
                 <button onClick={vaciarCarrito}>Vaciar</button>
                 <button onClick={confirmCarrito}>Confirmar</button>
               </div>
